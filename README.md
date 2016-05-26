@@ -5,11 +5,9 @@ This is my Emacs setting
   - C-v for paste   
   - C-y for redo   
 
-# define a function for select a line just like sublime text3   
-  - C-l for select one line   
-
+# C-l for select one line   
+  - define a function for select a line just like sublime text3   
 
 # using theme monokai   
-
 
 # using neotree for navigation   
