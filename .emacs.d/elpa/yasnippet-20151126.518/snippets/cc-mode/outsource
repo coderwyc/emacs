@@ -1,0 +1,12 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: QT UI source
+# key: outsource
+# --
+#include "ui_${1:$(downcase yas/text)}.h"
+#include "${1:$(downcase yas/text)}.h"
+${1:Name}::$1(QWidget * parent) : ${2:QWidget}(parent), ui(new Ui::$1) {
+  ui->setupUi(this);
+  $0
+}
+$1::~$1() {
+}

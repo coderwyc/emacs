@@ -1,0 +1,74 @@
+cygwin
+cygwin
+ls
+gcc hello.c 
+cygwin
+cygwin
+cygwin
+cygwin
+ls
+dir
+ls
+gcc -v
+cd ..
+ls
+ls -a
+rm .emacs#
+ls
+rm #.emacs#
+rm #.emacs# -rf
+rm #.emacs# -f
+rm -rf #.emacs# 
+ls
+ls
+ls | grep bin
+cd C:\Casilink\CasiDevKit\cygwin
+ls
+./Cygwin.bat
+ls
+./Cygwin.bat
+ls
+dir
+ls
+gcc -v
+gcc 
+ls -a
+ll
+ll
+ls
+python
+ls
+dir
+help
+helSTART          ´ò¿ªµ¥¶ÀÊÓ´°ÔËÐÐÖ¸¶¨³ÌÐò»òÃüÁî¡£
+help
+help
+dir
+pwd
+help
+gcc 
+gcc -v
+cmd
+help
+ls
+ls
+emacs download.py 
+exit
+help
+ls
+ipython
+python tcpClient.py 
+python tcpClient.py 
+ls
+dir
+ipython
+ls
+python
+ls
+pwd
+dir
+rm 璇存槑.txt
+ls
+gcc -h
+gcc -help
+ls
