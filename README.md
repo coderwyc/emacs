@@ -4,6 +4,7 @@ This is my Emacs setting
   - C-x for cut   
   - C-v for paste   
   - C-y for redo   
+  - C-c for copy  
 
 # C-l for select one line   
   - define a function for select a line just like sublime text3   
